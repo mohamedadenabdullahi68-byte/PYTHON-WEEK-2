@@ -1,7 +1,4 @@
-"""
-Simple Bill Calculator
-Asks the user for a price and quantity, then prints the total.
-"""
+# Simple Bill Calculator
 
 # 1. Ask the user for the price and quantity
 price_input = input("Enter the price of one item: ")
